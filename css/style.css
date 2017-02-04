@@ -6,7 +6,9 @@ body {
 
 .navbar-GN {
     background-color: #0C1C8D;
-    border-color: #e7e7e7;
+    border-color: #0C1C8D;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
 }
 
 .navbar-brand {
