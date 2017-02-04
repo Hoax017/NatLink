@@ -34,7 +34,7 @@
 								</li>
 							<?php else: ?>
 								<li>
-									<div class="navbar-form navbar-left">
+									<div class="navbar-form navbar-left" style="width: 128px;">
 										<span class="input-group-btn">
 											<a class="btn btn-default" href="/login.php"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>Connexion</a>
 										</span>
