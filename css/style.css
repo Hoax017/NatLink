@@ -4,6 +4,15 @@ body {
     background: lightgray;
 }
 
+.navbar-GN {
+    background-color: #0C1C8D;
+    border-color: #e7e7e7;
+}
+
+.navbar-brand {
+    padding: 11px;
+}
+
 .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
