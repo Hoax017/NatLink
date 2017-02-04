@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex">
 
-    <title>Sidebar responsive - Bootsnipp.com</title>
+    <title>NatLink</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
@@ -36,7 +36,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">Sidebar Template</a>
+                        <a class="navbar-brand" href="#"><img src="/img/logo.png"></a>
                     </div>
                     <div id="navbar-collapse" class="collapse navbar-collapse">
                         <form class="navbar-form navbar-left" role="search">
