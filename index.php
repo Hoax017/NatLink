@@ -24,7 +24,6 @@
     </script>
 </head>
 <body>
-  <body>
     <div id="navbar-wrapper">
         <header>
             <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -125,9 +124,5 @@
         <main id="page-content-wrapper" role="main">
         </main>
     </div>
-</body>
-  <script type="text/javascript">
-
-  </script>
 </body>
 </html>
