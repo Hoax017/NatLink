@@ -47,6 +47,7 @@
 			</nav>
 		</header>
 	</div>
+	<?php if ($_SESSION['user']): ?>
 	<div id="wrapper">
 		<div id="sidebar-wrapper">
 			<aside id="sidebar">
@@ -57,7 +58,6 @@
 							<span class="sidebar-title">Home</span>
 						</a>
 					</li>
-					<?php if ($_SESSION['user']): ?>
 					<li>
 						<a class="accordion-toggle collapsed toggle-switch" data-toggle="collapse" href="#submenu-2">
 							<span class="sidebar-icon"><i class="fa fa-users"></i></span>
@@ -92,7 +92,8 @@
 							<span class="sidebar-title">Console</span>
 						</a>
 					</li>
-				<?php endif; ?>
 				</ul>
 			</aside>
 		</div>
+
+	<?php endif; ?>
