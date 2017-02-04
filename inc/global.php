@@ -2,4 +2,4 @@
 
 	session_start();
 
-	$_SESSION['user'] = true;
+	$_SESSION['user'] = false;

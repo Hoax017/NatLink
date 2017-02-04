@@ -8,7 +8,7 @@
 		<?php include_once 'inc/header.php'; ?>
 		<main id="page-content-wrapper" role="main">
 			<div class="container">
-				<img src="/img/baner.png" class="col-xs-12">
+				<img src="/img/banner.png" class="col-xs-12">
 			</div>
 		</main>
 	</div>
