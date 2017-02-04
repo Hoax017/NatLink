@@ -2,4 +2,7 @@
 
 	session_start();
 
-	$_SESSION['user'] = false;
+	if ($_GET['t'])
+		$_SESSION['user'] = $_GET['t'];
+	// $_SESSION['user'] = "reserviste";
+	// $_SESSION['user'] = "gestionnaire";

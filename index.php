@@ -8,9 +8,10 @@
 		<?php include_once 'inc/header.php'; ?>
 		<main id="page-content-wrapper" role="main">
 			<div class="container">
-				<img src="/img/banner.png" class="col-xs-12">
+				<h1>Bienvenue sur NatLink</h1>
 			</div>
 		</main>
-	</div>
+		<?php if ($_SESSION['user']) echo "</div>" ?>
+		<?php include_once 'inc/footer.php'; ?>
 </body>
 </html>
